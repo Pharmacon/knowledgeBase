@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="code_C02CA05" shapeColor="0" id="73253872" parent="0" left="0" top="0" right="96" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="488.823" y="225.253" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="международное непатентованное название" shapeColor="0" id="73253008" parent="0" left="0" top="0" right="266" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="340.5" y="302" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN Terazosin" shapeColor="0" id="73253296" parent="0" left="0" top="0" right="87" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="344.025" y="224.903" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="код АТХ*" shapeColor="0" id="73253440" parent="0" left="0" top="0" right="64" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="418.025" y="162.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="73253584" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="489.025" y="272" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="73253728" parent="0" x="489" y="111.5" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Теразозин]]></content>
+        </node>
+        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="73253152" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="559.5" y="172" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="76092240" parent="0" id_b="73253296" id_e="73253872" b_x="344.025" b_y="224.903" e_x="488.823" e_y="225.253" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="76092408" parent="0" id_b="73253872" id_e="73253728" b_x="488.823" b_y="225.253" e_x="489" e_y="111.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="76091904" parent="0" id_b="73253152" id_e="76092408" b_x="559.5" b_y="172" e_x="36" e_y="18" dotBBalance="0" dotEBalance="0.4503">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71801248" parent="0" id_b="73253584" id_e="73253872" b_x="489.025" b_y="272" e_x="488.823" e_y="225.253" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="76092072" parent="0" id_b="73253440" id_e="76092240" b_x="418.025" b_y="162.5" e_x="36" e_y="18" dotBBalance="0" dotEBalance="0.495083">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="71801584" parent="0" id_b="73253008" id_e="73253296" b_x="340.5" b_y="302" e_x="344.025" e_y="224.903" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
