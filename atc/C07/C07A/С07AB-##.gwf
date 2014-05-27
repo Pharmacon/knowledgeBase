@@ -10,13 +10,13 @@
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77457304" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="371.653" y="1308" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77457160" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="398.395" y="1197.91" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77457160" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="398.395" y="1197.91" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77457016" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="369.5" y="1254.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77456872" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="576.84" y="1320.56" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77456872" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="576.84" y="1320.56" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="" shapeColor="0" id="77456728" parent="0" x="1233.5" y="917.161" haveBus="false">
@@ -28,13 +28,13 @@
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77456440" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="913.653" y="959" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77456296" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="940.395" y="848.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77456296" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="940.395" y="848.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77456152" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="911.5" y="905.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77456008" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1118.84" y="971.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77456008" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1118.84" y="971.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="" shapeColor="0" id="77455864" parent="0" x="668.5" y="883.161" haveBus="false">
@@ -43,13 +43,13 @@
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="77455720" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="393" y="969.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77455576" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="553.84" y="937.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77455576" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="553.84" y="937.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77455432" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="346.5" y="871.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77455288" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="375.395" y="814.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77455288" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="375.395" y="814.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77455144" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="348.653" y="925" haveBus="false">
@@ -61,13 +61,13 @@
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77454856" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-199.347" y="899" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77454712" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-172.605" y="788.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77454712" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-172.605" y="788.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77454568" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-201.5" y="845.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77454424" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="5.84" y="911.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77454424" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="5.84" y="911.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="77454280" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-155" y="943.5" haveBus="false">
@@ -76,13 +76,13 @@
         <node type="node/const/general_node" idtf="" shapeColor="0" id="77454136" parent="0" x="1198.5" y="554.161" haveBus="false">
             <content type="1" mime_type="content/term" file_name=""><![CDATA[Целипролол]]></content>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77453992" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1083.84" y="608.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77453992" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1083.84" y="608.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77453848" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="876.5" y="542.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77453704" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="905.395" y="485.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77453704" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="905.395" y="485.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77453560" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="878.653" y="596" haveBus="false">
@@ -94,7 +94,7 @@
         <node type="node/const/general_node" idtf="" shapeColor="0" id="77453272" parent="0" x="617.5" y="539.161" haveBus="false">
             <content type="1" mime_type="content/term" file_name=""><![CDATA[Бисопролол]]></content>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="77453128" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="502.84" y="593.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="77453128" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="502.84" y="593.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="77452984" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="342" y="625.5" haveBus="false">
@@ -103,7 +103,7 @@
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="77452840" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="297.653" y="581" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77452696" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="324.395" y="470.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77452696" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="324.395" y="470.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77452552" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="295.5" y="527.5" haveBus="false">
@@ -112,7 +112,7 @@
         <node type="node/const/general_node" idtf="" shapeColor="0" id="77452408" parent="0" x="119.5" y="506.161" haveBus="false">
             <content type="1" mime_type="content/term" file_name=""><![CDATA[Бетаксолол]]></content>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="77452264" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-173.605" y="437.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="77452264" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-173.605" y="437.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="77452120" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-202.5" y="494.5" haveBus="false">
@@ -124,16 +124,16 @@
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="76583784" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-156" y="592.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="76583640" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="4.84" y="560.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="76583640" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="4.84" y="560.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="76583496" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="896.395" y="127.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="76583496" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="896.395" y="127.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="" shapeColor="0" id="76583352" parent="0" x="1189.5" y="196.161" haveBus="false">
-            <content type="1" mime_type="content/term" file_name=""><![CDATA[Ацебутолол]]></content>
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Aцебутолол]]></content>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="76583208" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1074.84" y="250.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="76583208" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1074.84" y="250.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="76583064" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="914" y="282.5" haveBus="false">
@@ -145,11 +145,11 @@
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="76582776" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="867.5" y="184.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="76582632" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="348.395" y="100.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="76582632" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="348.395" y="100.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="" shapeColor="0" id="76582488" parent="0" x="641.496" y="169.161" haveBus="false">
-            <content type="1" mime_type="content/term" file_name=""><![CDATA[Атенолол]]></content>
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Aтенолол]]></content>
         </node>
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="76582344" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="321.653" y="211" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
@@ -157,7 +157,7 @@
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="76582200" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="366" y="255.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="76582056" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="526.836" y="223.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="76582056" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="526.836" y="223.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07AB" shapeColor="0" id="76581912" parent="0" left="0" top="0" right="49" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="319.5" y="157.5" haveBus="false">
@@ -172,10 +172,10 @@
         <node type="node/const/general_node" idtf="C07A" shapeColor="0" id="76581480" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-197.347" y="202" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="76581336" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-170.605" y="91.909" haveBus="false">
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="76581336" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-170.605" y="91.909" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="76580040" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="7.836" y="214.563" haveBus="false">
+        <node type="node/const/relation" idtf="nrel_code_description*" shapeColor="0" id="76580040" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="7.836" y="214.563" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="C07" shapeColor="0" id="76579896" parent="0" left="0" top="0" right="32" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-153" y="246.5" haveBus="false">
