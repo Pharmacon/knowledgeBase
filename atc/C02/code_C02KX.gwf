@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="lang_ru" shapeColor="0" id="141706976" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="488.5" y="387.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="193" id="96832328" parent="0" left="0" top="0" right="95" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="359.929" y="145.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="96831032" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="251.994" y="314.86" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="96831752" parent="0" left="0" top="0" right="132" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="288.362" y="283.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C02KX" shapeColor="0" id="96831176" parent="0" left="0" top="0" right="83" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="258.725" y="200.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN Sildenafilum" shapeColor="0" id="96831608" parent="0" left="0" top="0" right="105" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="397.152" y="198.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_international_nonproprietary_name" shapeColor="0" id="96831320" parent="0" left="0" top="0" right="259" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="551.887" y="181" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="96830600" parent="0" x="457.862" y="335" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Силденафил]]></content>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56813744" parent="0" id_b="96830600" id_e="141706976" b_x="457.862" b_y="335" e_x="488.5" e_y="387.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="56972256" parent="0" id_b="96831608" id_e="96830600" b_x="397.152" b_y="198.5" e_x="457.862" e_y="335" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="56972088" parent="0" id_b="96831608" id_e="96831176" b_x="397.152" b_y="198.5" e_x="258.725" e_y="200.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56970912" parent="0" id_b="96831752" id_e="56972256" b_x="288.362" b_y="283.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.756784">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56971752" parent="0" id_b="96832328" id_e="56972088" b_x="359.929" b_y="145.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.245215">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56971416" parent="0" id_b="96831032" id_e="96831176" b_x="251.994" b_y="314.86" e_x="258.725" e_y="200.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56971080" parent="0" id_b="96831320" id_e="96831608" b_x="551.887" b_y="181" e_x="397.152" e_y="198.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
