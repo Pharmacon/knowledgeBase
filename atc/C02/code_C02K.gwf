@@ -1,43 +1,49 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <GWF version="2.0">
     <staticSector>
-        <node type="node/const/general_node" idtf="" shapeColor="193" id="72939936" parent="0" x="337.5" y="194.43" haveBus="false">
+        <node type="node/const/general_node" idtf="lang_ru" shapeColor="0" id="141707408" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="228.5" y="187.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="193" id="57941432" parent="0" left="0" top="0" right="95" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="709.5" y="251.434" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="57948632" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="622.5" y="120.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="57948488" parent="0" left="0" top="0" right="132" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="428.5" y="256.434" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C02K" shapeColor="0" id="57941144" parent="0" left="0" top="0" right="74" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="623.5" y="196.43" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN Bendazol + Papaverine + Theobromine" shapeColor="0" id="57943736" parent="0" left="0" top="0" right="249" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="623.5" y="281.434" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="57941288" parent="0" x="337.5" y="194.43" haveBus="false">
             <content type="1" mime_type="content/term" file_name=""><![CDATA[Гипотензивные препараты другие]]></content>
         </node>
-        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="72940512" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="622.5" y="120.5" haveBus="false">
+        <node type="node/const/group" idtf="concept_international_nonproprietary_name" shapeColor="0" id="57942440" parent="0" left="0" top="0" right="259" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="625.5" y="372.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/relation" idtf="код АТХ*" shapeColor="0" id="72940368" parent="0" left="0" top="0" right="64" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="708.5" y="251.434" haveBus="false">
-            <content type="0" mime_type="" file_name=""/>
-        </node>
-        <node type="node/const/general_node" idtf="INN Bendazol + Papaverine + Theobromine" shapeColor="0" id="72940224" parent="0" left="0" top="0" right="249" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="623.5" y="281.434" haveBus="false">
-            <content type="0" mime_type="" file_name=""/>
-        </node>
-        <node type="node/const/relation" idtf="описание кода*" shapeColor="0" id="72940080" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="495.5" y="242.434" haveBus="false">
-            <content type="0" mime_type="" file_name=""/>
-        </node>
-        <node type="node/const/group" idtf="международное непатентованное название" shapeColor="0" id="72938640" parent="0" left="0" top="0" right="266" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="625.5" y="372.5" haveBus="false">
-            <content type="0" mime_type="" file_name=""/>
-        </node>
-        <node type="node/const/general_node" idtf="code_C02K" shapeColor="0" id="72937344" parent="0" left="0" top="0" right="74" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="623.5" y="196.43" haveBus="false">
-            <content type="0" mime_type="" file_name=""/>
-        </node>
-        <pair type="pair/const/orient" idtf="" shapeColor="0" id="73314424" parent="0" id_b="72940224" id_e="72937344" b_x="623.5" b_y="281.434" e_x="623.5" e_y="196.43" dotBBalance="0" dotEBalance="0">
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="142457072" parent="0" id_b="141707408" id_e="57941288" b_x="228.5" b_y="187.5" e_x="337.5" e_y="194.43" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="138166280" parent="0" id_b="57941144" id_e="57941288" b_x="623.5" b_y="196.43" e_x="337.5" e_y="194.43" dotBBalance="0" dotEBalance="0">
             <points/>
         </pair>
-        <pair type="pair/const/orient" idtf="" shapeColor="0" id="73314256" parent="0" id_b="72937344" id_e="72939936" b_x="623.5" b_y="196.43" e_x="337.5" e_y="194.43" dotBBalance="0" dotEBalance="0">
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="138166112" parent="0" id_b="57943736" id_e="57941144" b_x="623.5" b_y="281.434" e_x="623.5" e_y="196.43" dotBBalance="0" dotEBalance="0">
             <points/>
         </pair>
-        <arc type="arc/const/pos" idtf="" shapeColor="0" id="73314088" parent="0" id_b="72940080" id_e="73314256" b_x="495.5" b_y="242.434" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.40979">
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="138164936" parent="0" id_b="57942440" id_e="57943736" b_x="625.5" b_y="372.5" e_x="623.5" e_y="281.434" dotBBalance="0" dotEBalance="0">
             <points/>
         </arc>
-        <arc type="arc/const/pos" idtf="" shapeColor="0" id="73313920" parent="0" id_b="72940512" id_e="72937344" b_x="622.5" b_y="120.5" e_x="623.5" e_y="196.43" dotBBalance="0" dotEBalance="0">
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="138165776" parent="0" id_b="57941432" id_e="138166112" b_x="709.5" b_y="251.434" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.198267">
             <points/>
         </arc>
-        <arc type="arc/const/pos" idtf="" shapeColor="0" id="73313584" parent="0" id_b="72940368" id_e="73314424" b_x="708.5" b_y="251.434" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.198267">
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="138165104" parent="0" id_b="57948632" id_e="57941144" b_x="622.5" b_y="120.5" e_x="623.5" e_y="196.43" dotBBalance="0" dotEBalance="0">
             <points/>
         </arc>
-        <arc type="arc/const/pos" idtf="" shapeColor="0" id="73313752" parent="0" id_b="72938640" id_e="72940224" b_x="625.5" b_y="372.5" e_x="623.5" e_y="281.434" dotBBalance="0" dotEBalance="0">
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="138165440" parent="0" id_b="57948488" id_e="138166280" b_x="428.5" b_y="256.434" e_x="0" e_y="0" dotBBalance="0" dotEBalance="1.40979">
             <points/>
         </arc>
     </staticSector>
