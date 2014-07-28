@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="C" shapeColor="0" id="76138224" parent="0" left="0" top="0" right="18" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="340.5" y="248.167" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C02" shapeColor="0" id="76138368" parent="0" left="0" top="0" right="31" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="434.833" y="242.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C02B" shapeColor="0" id="76137936" parent="0" left="0" top="0" right="40" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="520.166" y="254.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C02BC" shapeColor="0" id="76138080" parent="0" left="0" top="0" right="83" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="587.833" y="372.167" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="76249560" parent="0" id_b="76137936" id_e="76138080" b_x="520.166" b_y="254.5" e_x="587.833" e_y="372.167" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="76250064" parent="0" id_b="76138368" id_e="76138080" b_x="434.833" b_y="242.5" e_x="587.833" e_y="372.167" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="76249392" parent="0" id_b="76138224" id_e="76138080" b_x="340.5" b_y="248.167" e_x="587.833" e_y="372.167" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
