@@ -7,10 +7,10 @@
         <node type="node/const/group" idtf="lang_ru" shapeColor="0" id="59092728" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="456.5" y="283.5" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="59092008" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="728.395" y="296.91" haveBus="false">
+        <node type="node/const/group" idtf="concept_concept_ATC_code" shapeColor="0" id="59092008" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="728.395" y="296.91" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
-        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="59091864" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="131.395" y="269.91" haveBus="false">
+        <node type="node/const/group" idtf="concept_concept_ATC_code" shapeColor="0" id="59091864" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="131.395" y="269.91" haveBus="false">
             <content type="0" mime_type="" file_name=""/>
         </node>
         <node type="node/const/general_node" idtf="code_C07FB" shapeColor="0" id="59091720" parent="0" left="0" top="0" right="82" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="847.65" y="361.5" haveBus="false">
