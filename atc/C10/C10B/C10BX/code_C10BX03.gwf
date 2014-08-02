@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="INN_Atorvastatinum" shapeColor="193" id="62953184" parent="0" left="0" top="0" right="156" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1111" y="101" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN_Amlodipinum" shapeColor="0" id="62955344" parent="0" left="0" top="0" right="143" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="904.25" y="102" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C10BX03" shapeColor="0" id="62952464" parent="0" left="0" top="0" right="119" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1022" y="550.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C10BX" shapeColor="0" id="62952320" parent="0" left="0" top="0" right="61" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1254.5" y="889.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C10B" shapeColor="0" id="62951456" parent="0" left="0" top="0" right="48" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1253.5" y="550.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C" shapeColor="0" id="62952032" parent="0" left="0" top="0" right="20" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="818.5" y="550.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C10" shapeColor="0" id="62952176" parent="0" left="0" top="0" right="37" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="819.5" y="890.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_international_nonproprietary_name" shapeColor="0" id="62953328" parent="0" left="0" top="0" right="329" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1005.25" y="8.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="62953472" parent="0" x="1010" y="177" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="0" id="62954624" parent="0" left="0" top="0" right="119" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1123.5" y="236" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="62954768" parent="0" left="0" top="0" right="168" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="841.5" y="364" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="lang_ru" shapeColor="0" id="62954912" parent="0" left="0" top="0" right="65" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="639.5" y="285.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="62955056" parent="0" left="0" top="0" right="145" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1054.25" y="355.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C10BX03" shapeColor="0" id="62951312" parent="0" left="0" top="0" right="119" bottom="29" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="1054.25" y="288.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="62955632" parent="0" x="785.5" y="288" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Аторвастатин + амлодипин]]></content>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65590624" parent="0" id_b="62953328" id_e="62953184" b_x="1005.25" b_y="8.5" e_x="1111" e_y="101" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65593984" parent="0" id_b="62953472" id_e="62953184" b_x="1010" b_y="177" e_x="1111" e_y="101" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="65596000" parent="0" id_b="62951312" id_e="62955632" b_x="1054.25" b_y="288.5" e_x="785.5" e_y="288" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="65595832" parent="0" id_b="62953472" id_e="62951312" b_x="1010" b_y="177" e_x="1054.25" e_y="288.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65595664" parent="0" id_b="62951456" id_e="62952464" b_x="1253.5" b_y="550.5" e_x="1022" e_y="550.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65595496" parent="0" id_b="62952032" id_e="62952464" b_x="818.5" b_y="550.5" e_x="1022" e_y="550.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65595328" parent="0" id_b="62952176" id_e="62952464" b_x="819.5" b_y="890.5" e_x="1022" e_y="550.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65595160" parent="0" id_b="62952320" id_e="62952464" b_x="1254.5" b_y="889.5" e_x="1022" e_y="550.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65594992" parent="0" id_b="62953328" id_e="62955344" b_x="1005.25" b_y="8.5" e_x="904.25" e_y="102" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65594824" parent="0" id_b="62954624" id_e="65595832" b_x="1123.5" b_y="236" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.711009">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65593480" parent="0" id_b="62955056" id_e="62951312" b_x="1054.25" b_y="355.5" e_x="1054.25" e_y="288.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65592136" parent="0" id_b="62954768" id_e="65596000" b_x="841.5" b_y="364" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.564607">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65589784" parent="0" id_b="62953472" id_e="62955344" b_x="1010" b_y="177" e_x="904.25" e_y="102" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="65593312" parent="0" id_b="62954912" id_e="62955632" b_x="639.5" b_y="285.5" e_x="785.5" e_y="288" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
