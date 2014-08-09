@@ -1,0 +1,2 @@
+[Konstantinnn]: Добавил недостающие связи описнаия групп и узла lang_ru в C05C.gwf, C05B.gwf.
+[Konstantinnn]: Изменил C05C.gwf (Изменил направление связи nrel_inclusion). Добавил связь с code_C05C.
