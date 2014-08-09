@@ -1,0 +1,3 @@
+[Konstantinnn]: Удалил лишний узел в code_C03EA14.gwf.
+[Konstantinnn]: Заменил отношение nrel_subdividing на nrel_inclusion в C03.gwf.
+[Konstantinnn]: Добавил связь группы и кода АТХ code_C03 в C03.gwf.
