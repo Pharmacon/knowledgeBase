@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="code_C05CA" shapeColor="193" id="72055912" parent="0" left="0" top="0" right="82" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="487" y="452" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="0" id="72055336" parent="0" left="0" top="0" right="95" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="593.945" y="395.567" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="72055480" parent="0" x="670" y="450" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="72055624" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="363.635" y="456.027" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="72055768" parent="0" left="0" top="0" right="132" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="297.5" y="314.567" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="lang_ru" shapeColor="0" id="72056056" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="542.5" y="129.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="72056200" parent="0" x="488.31" y="224" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Биофлавоноиды]]></content>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="72320808" parent="0" id_b="72055912" id_e="72056200" b_x="487" b_y="452" e_x="488.31" e_y="224" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="72320976" parent="0" id_b="72055480" id_e="72055912" b_x="670" b_y="450" e_x="487" e_y="452" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="72320640" parent="0" id_b="72055624" id_e="72055912" b_x="363.635" b_y="456.027" e_x="487" e_y="452" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="72320304" parent="0" id_b="72055336" id_e="72320976" b_x="593.945" b_y="395.567" e_x="115" e_y="58" dotBBalance="0" dotEBalance="0.506392">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="72320472" parent="0" id_b="72055768" id_e="72320808" b_x="297.5" b_y="314.567" e_x="115" e_y="58" dotBBalance="0" dotEBalance="0.626275">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="72320136" parent="0" id_b="72056056" id_e="72056200" b_x="542.5" b_y="129.5" e_x="488.31" e_y="224" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
