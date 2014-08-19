@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/group" idtf="concept_international_nonproprietary_name" shapeColor="0" id="62883216" parent="0" left="0" top="0" right="259" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="804.593" y="186.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="lang_ru" shapeColor="0" id="62882496" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="217.5" y="161.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="62883360" parent="0" left="0" top="0" right="132" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="275.69" y="295.559" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="62882640" parent="0" x="221.35" y="229.413" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Эпросартан в комбинации с диуретиками]]></content>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="59723976" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="351.594" y="114.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="0" id="62883072" parent="0" left="0" top="0" right="95" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="421.263" y="159.833" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="code_C09DA02" shapeColor="0" id="59723832" parent="0" left="0" top="0" right="96" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="356.803" y="230" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="59723688" parent="0" x="471.673" y="232.335" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN_Eprosartanum" shapeColor="0" id="62883936" parent="0" left="0" top="0" right="118" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="625.363" y="236.333" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN_Hydrochlorothiazidum" shapeColor="0" id="62882928" parent="0" left="0" top="0" right="164" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="585.863" y="183.833" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="62646032" parent="0" id_b="59723832" id_e="62882640" b_x="356.803" b_y="230" e_x="221.35" e_y="229.413" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="62645024" parent="0" id_b="62883360" id_e="62646032" b_x="275.69" b_y="295.559" e_x="-1076.15" e_y="-663.087" dotBBalance="0" dotEBalance="0.537035">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="62645696" parent="0" id_b="62882496" id_e="62882640" b_x="217.5" b_y="161.5" e_x="221.35" e_y="229.413" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="61346152" parent="0" id_b="62883216" id_e="62883936" b_x="804.593" b_y="186.5" e_x="625.363" e_y="236.333" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="61348168" parent="0" id_b="62883216" id_e="62882928" b_x="804.593" b_y="186.5" e_x="585.863" e_y="183.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="62644520" parent="0" id_b="59723688" id_e="59723832" b_x="471.673" b_y="232.335" e_x="356.803" e_y="230" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="63060216" parent="0" id_b="59723688" id_e="62883936" b_x="471.673" b_y="232.335" e_x="625.363" e_y="236.333" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="63303000" parent="0" id_b="62883072" id_e="62644520" b_x="421.263" b_y="159.833" e_x="-587.137" e_y="5.8334" dotBBalance="0" dotEBalance="0.424265">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="63055680" parent="0" id_b="59723976" id_e="59723832" b_x="351.594" b_y="114.5" e_x="356.803" e_y="230" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="63305520" parent="0" id_b="59723688" id_e="62882928" b_x="471.673" b_y="232.335" e_x="585.863" e_y="183.833" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>

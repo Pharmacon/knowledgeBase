@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="code_C05CA53" shapeColor="193" id="73076944" parent="0" left="0" top="0" right="96" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="267.139" y="301.64" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_code_description" shapeColor="0" id="75822688" parent="0" left="0" top="0" right="132" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="356.853" y="238.567" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="73076224" parent="0" x="569.353" y="296" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_ATC_code" shapeColor="0" id="73076368" parent="0" left="0" top="0" right="95" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="494.298" y="198.567" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="lang_ru" shapeColor="0" id="73076512" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="309.853" y="137.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="73076656" parent="0" x="265.353" y="180" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Диосмин в комбинации с другими препаратами]]></content>
+        </node>
+        <node type="node/const/group" idtf="concept_ATC_code" shapeColor="0" id="73076800" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="267.988" y="367.03" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN_Hesperidinum" shapeColor="0" id="73077088" parent="0" left="0" top="0" right="116" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="679.92" y="250" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN_Diosminum" shapeColor="0" id="75822400" parent="0" left="0" top="0" right="101" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="685.853" y="321" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="concept_international_nonproprietary_name" shapeColor="0" id="75822544" parent="0" left="0" top="0" right="259" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="606.353" y="365.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="74429448" parent="0" id_b="73076944" id_e="73076656" b_x="267.139" b_y="301.64" e_x="265.353" e_y="180" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="74429616" parent="0" id_b="73076224" id_e="73076944" b_x="569.353" b_y="296" e_x="267.139" e_y="301.64" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428608" parent="0" id_b="75822544" id_e="75822400" b_x="606.353" b_y="365.5" e_x="685.853" e_y="321" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74429280" parent="0" id_b="75822688" id_e="74429448" b_x="356.853" b_y="238.567" e_x="12.9197" e_y="26" dotBBalance="0" dotEBalance="0.492425">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428440" parent="0" id_b="73076368" id_e="74429616" b_x="494.298" b_y="198.567" e_x="12.9197" e_y="26" dotBBalance="0" dotEBalance="0.215004">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74429112" parent="0" id_b="73076512" id_e="73076656" b_x="309.853" b_y="137.5" e_x="265.353" e_y="180" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428272" parent="0" id_b="73076800" id_e="73076944" b_x="267.988" b_y="367.03" e_x="267.139" e_y="301.64" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428944" parent="0" id_b="73076224" id_e="75822400" b_x="569.353" b_y="296" e_x="685.853" e_y="321" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428104" parent="0" id_b="73076224" id_e="73077088" b_x="569.353" b_y="296" e_x="679.92" e_y="250" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="74428776" parent="0" id_b="75822544" id_e="73077088" b_x="606.353" b_y="365.5" e_x="679.92" e_y="250" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
