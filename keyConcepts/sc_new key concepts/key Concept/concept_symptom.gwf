@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/group" idtf="concept_symptom" shapeColor="193" id="57179464" parent="0" left="0" top="0" right="107" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="578.17" y="190.647" haveBus="true">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/attribute" idtf="rrel_key_sc_element" shapeColor="0" id="57176152" parent="0" left="0" top="0" right="123" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="443.5" y="117.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/asymmetry" idtf="" shapeColor="0" id="55866688" parent="0" x="347.31" y="283.853" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="lang_en" shapeColor="0" id="57177160" parent="0" left="0" top="0" right="53" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="842.67" y="224" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="55865104" parent="0" x="735.23" y="222.853" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[symptom]]></content>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="55866112" parent="0" x="746.49" y="293" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[симптом]]></content>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="55864960" parent="0" x="360.29" y="451.257" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Симптом — нарушение какого-либо процесса жизнедеятельности, часто - проявление какого-либо заболевания, патологического состояния. Один отдельный признак,  одна отдельная конкретная жалоба больного.]]></content>
+        </node>
+        <node type="node/const/relation" idtf="nrel_main_idtf" shapeColor="0" id="57178024" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="710.3" y="257.62" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="lang_ru" shapeColor="0" id="57176440" parent="0" left="0" top="0" right="52" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="748.63" y="457.59" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="sc_explanation" shapeColor="0" id="57177736" parent="0" left="0" top="0" right="93" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="229.46" y="189.971" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="57177880" parent="0" x="345.84" y="190.735" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="nrel_sc_text_translation" shapeColor="0" id="55867264" parent="0" left="0" top="0" right="144" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="195.61" y="240.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/attribute" idtf="rrel_examle" shapeColor="0" id="55865680" parent="0" left="0" top="0" right="75" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="431.14" y="366.911" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="58031848" parent="0" id_b="57176152" id_e="56051496" b_x="443.5" b_y="117.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.411456">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="56049984" parent="0" id_b="55825248" id_e="55865104" b_x="0" b_y="0" e_x="735.23" e_y="222.853" dotBBalance="0.18533" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="56048304" parent="0" id_b="55825248" id_e="55866112" b_x="0" b_y="0" e_x="746.49" e_y="293" dotBBalance="0.846411" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="56048136" parent="0" id_b="55866688" id_e="57177880" b_x="347.31" b_y="283.853" e_x="345.84" e_y="190.735" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56049648" parent="0" id_b="57176440" id_e="55864960" b_x="748.63" b_y="457.59" e_x="360.29" e_y="451.257" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56050824" parent="0" id_b="55866688" id_e="55864960" b_x="347.31" b_y="283.853" e_x="360.29" e_y="451.257" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56046960" parent="0" id_b="57178024" id_e="56048304" b_x="710.3" b_y="257.62" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.601903">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56052840" parent="0" id_b="57178024" id_e="56049984" b_x="710.3" b_y="257.62" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.709552">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56052336" parent="0" id_b="57177160" id_e="55865104" b_x="842.67" b_y="224" e_x="735.23" e_y="222.853" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56052168" parent="0" id_b="55865680" id_e="56050824" b_x="431.14" b_y="366.911" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.497889">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56051664" parent="0" id_b="57176440" id_e="55866112" b_x="748.63" b_y="457.59" e_x="746.49" e_y="293" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56051496" parent="0" id_b="57177880" id_e="57179464" b_x="345.84" b_y="190.735" e_x="578.17" e_y="190.647" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56053848" parent="0" id_b="57177736" id_e="57177880" b_x="229.46" b_y="189.971" e_x="345.84" e_y="190.735" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="56053344" parent="0" id_b="55867264" id_e="56048136" b_x="195.61" b_y="240.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.477032">
+            <points/>
+        </arc>
+        <bus type="" idtf="" shapeColor="0" id="55825248" parent="0" owner="57179464" b_x="578.191" b_y="205.147" e_x="578.34" e_y="310.21">
+            <points/>
+        </bus>
+    </staticSector>
+</GWF>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="" shapeColor="0" id="75965256" parent="0" x="210" y="201" haveBus="false">
+            <content type="1" mime_type="content/term" file_name=""><![CDATA[Альфа- и бета-адреноблокаторы]]></content>
+        </node>
+        <node type="node/const/relation" idtf="код АТХ*" shapeColor="0" id="75969720" parent="0" left="0" top="0" right="64" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="347.92" y="126.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="международное непатентованное название" shapeColor="0" id="75966840" parent="0" left="0" top="0" right="266" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="383.5" y="36.62" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="группа АТХ" shapeColor="0" id="75968856" parent="0" left="0" top="0" right="77" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="178.809" y="-21.633" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="код АТХ" shapeColor="0" id="75968424" parent="0" left="0" top="0" right="58" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="312.279" y="-3.93" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="описание кода*" shapeColor="0" id="75965400" parent="0" left="0" top="0" right="99" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="255" y="141" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="INN Butylaminohydroxypropoxyphenoxymethyli methyloxadiazolum" shapeColor="0" id="75965112" parent="0" left="0" top="0" right="390" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="384" y="87" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="C07AG" shapeColor="0" id="31721976" parent="0" left="0" top="0" right="50" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="211" y="87" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="75309392" parent="0" id_b="75966840" id_e="75965112" b_x="383.5" b_y="36.62" e_x="384" e_y="87" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="75309056" parent="0" id_b="75969720" id_e="79533992" b_x="347.92" b_y="126.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.15625">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="75309560" parent="0" id_b="75968856" id_e="31721976" b_x="178.809" b_y="-21.633" e_x="211" e_y="87" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="75309728" parent="0" id_b="75968424" id_e="31721976" b_x="312.279" b_y="-3.93" e_x="211" e_y="87" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="79533992" parent="0" id_b="75965112" id_e="31721976" b_x="384" b_y="87" e_x="211" e_y="87" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="79533824" parent="0" id_b="75965400" id_e="75307040" b_x="255" b_y="141" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.476123">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="75307040" parent="0" id_b="31721976" id_e="75965256" b_x="211" b_y="87" e_x="210" e_y="201" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>

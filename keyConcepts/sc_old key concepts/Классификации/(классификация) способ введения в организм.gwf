@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<GWF version="1.6">
+    <staticSector>
+        <node type="node/const/atom" idtf="ректальное введение" shapeColor="193" id="75774752" parent="0" left="0" top="0" right="131" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="828.5" y="384.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/atom" idtf="сублингвальное введение" shapeColor="0" id="75774608" parent="0" left="0" top="0" right="151" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="625.5" y="358.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/atom" idtf="пероральное введение" shapeColor="0" id="75774032" parent="0" left="0" top="0" right="135" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="586.5" y="388.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="разбиение*" shapeColor="0" id="33613456" parent="0" left="0" top="0" right="73" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="332.5" y="261.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Разбиение энтеральных форм по способу введения в организм" shapeColor="0" id="33612160" parent="0" left="0" top="0" right="367" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="604.5" y="289.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Разбиение парентеральных форм по способу введения в организм" shapeColor="0" id="33613600" parent="0" left="0" top="0" right="389" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="150.5" y="301.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="энтеральные формы" shapeColor="0" id="33612880" parent="0" left="0" top="0" right="128" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="599" y="201" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="внутривенное введение" shapeColor="0" id="75772016" parent="0" left="0" top="0" right="143" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="415" y="550" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="подкожное введение" shapeColor="0" id="75773024" parent="0" left="0" top="0" right="127" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="515" y="517" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="инъекции" shapeColor="0" id="33613744" parent="0" left="0" top="0" right="63" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="477" y="375" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="внутриартериальное введение" shapeColor="0" id="75772880" parent="0" left="0" top="0" right="188" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="455" y="533" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="внутримышечное введение" shapeColor="0" id="75772160" parent="0" left="0" top="0" right="166" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="354" y="567" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="ингаляции" shapeColor="0" id="33614176" parent="0" left="0" top="0" right="69" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="150" y="357" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="нанесение на поверхность" shapeColor="0" id="33614032" parent="0" left="0" top="0" right="163" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="22" y="382" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="разбиение*" shapeColor="0" id="75772448" parent="0" left="0" top="0" right="73" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="275.5" y="416.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="нанесение на слизистые оболочки организма" shapeColor="0" id="75772592" parent="0" left="0" top="0" right="272" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="119" y="505" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="нанесение на кожу" shapeColor="0" id="75772304" parent="0" left="0" top="0" right="119" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="-24" y="498" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Разбиение инъекций по способу введения в организм" shapeColor="0" id="33613888" parent="0" left="0" top="0" right="310" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="21.5" y="439.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="парентеральные формы" shapeColor="0" id="33612736" parent="0" left="0" top="0" right="150" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="155" y="200" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Разбиение по способу введения в организм" shapeColor="0" id="75771872" parent="0" left="0" top="0" right="252" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="474.5" y="435.5" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="Разбиение по способу введения в организм" shapeColor="0" id="33612448" parent="0" left="0" top="0" right="252" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="301" y="121" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/relation" idtf="разбиение*" shapeColor="0" id="33612592" parent="0" left="0" top="0" right="73" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="222" y="81" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <node type="node/const/group" idtf="способ введения в организм" shapeColor="0" id="33608992" parent="0" left="0" top="0" right="167" bottom="25" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="302" y="44" haveBus="false">
+            <content type="0" mime_type="" file_name=""/>
+        </node>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33603984" parent="0" id_b="33612160" id_e="75774752" b_x="604.5" b_y="289.5" e_x="828.5" e_y="384.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33604304" parent="0" id_b="33612160" id_e="75774608" b_x="604.5" b_y="289.5" e_x="625.5" e_y="358.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33604464" parent="0" id_b="33612160" id_e="75774032" b_x="604.5" b_y="289.5" e_x="586.5" e_y="388.5" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33604144" parent="0" id_b="33613456" id_e="33603504" b_x="332.5" b_y="261.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.306324">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="33603504" parent="0" id_b="33612160" id_e="33612880" b_x="604.5" b_y="289.5" e_x="599" e_y="201" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33603344" parent="0" id_b="75771872" id_e="75772160" b_x="474.5" b_y="435.5" e_x="354" e_y="567" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33603184" parent="0" id_b="75771872" id_e="75773024" b_x="474.5" b_y="435.5" e_x="515" e_y="517" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33603024" parent="0" id_b="75771872" id_e="75772016" b_x="474.5" b_y="435.5" e_x="415" e_y="550" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33602864" parent="0" id_b="75771872" id_e="75772880" b_x="474.5" b_y="435.5" e_x="455" e_y="533" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33602704" parent="0" id_b="33613888" id_e="75772592" b_x="21.5" b_y="439.5" e_x="119" e_y="505" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33602544" parent="0" id_b="33613888" id_e="75772304" b_x="21.5" b_y="439.5" e_x="-24" e_y="498" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="33601744" parent="0" id_b="75771872" id_e="33613744" b_x="474.5" b_y="435.5" e_x="477" e_y="375" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="33601584" parent="0" id_b="33613888" id_e="33614032" b_x="21.5" b_y="439.5" e_x="22" e_y="382" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="33600784" parent="0" id_b="33613600" id_e="33612736" b_x="150.5" b_y="301.5" e_x="155" e_y="200" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/orient" idtf="" shapeColor="0" id="33600624" parent="0" id_b="33612448" id_e="33608992" b_x="301" b_y="121" e_x="302" e_y="44" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33602064" parent="0" id_b="75772448" id_e="33601744" b_x="275.5" b_y="416.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.48443">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33601904" parent="0" id_b="75772448" id_e="33601584" b_x="275.5" b_y="416.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.309824">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33601424" parent="0" id_b="33613600" id_e="33613744" b_x="150.5" b_y="301.5" e_x="477" e_y="375" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33601264" parent="0" id_b="33613600" id_e="33614176" b_x="150.5" b_y="301.5" e_x="150" e_y="357" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33601104" parent="0" id_b="33613600" id_e="33614032" b_x="150.5" b_y="301.5" e_x="22" e_y="382" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33600944" parent="0" id_b="33613456" id_e="33600784" b_x="332.5" b_y="261.5" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.383577">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33600304" parent="0" id_b="33612448" id_e="33612880" b_x="301" b_y="121" e_x="599" e_y="201" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33600464" parent="0" id_b="33612448" id_e="33612736" b_x="301" b_y="121" e_x="155" e_y="200" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="33599984" parent="0" id_b="33612592" id_e="33600624" b_x="222" b_y="81" e_x="0" e_y="0" dotBBalance="0" dotEBalance="0.510009">
+            <points/>
+        </arc>
+    </staticSector>
+</GWF>
